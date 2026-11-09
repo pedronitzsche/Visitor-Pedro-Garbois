@@ -1,0 +1,6 @@
+visitor\Carro.class
+visitor\Moto.class
+visitor\Caminhao.class
+visitor\RevisaoVisitor.class
+visitor\Veiculo.class
+visitor\Visitor.class
